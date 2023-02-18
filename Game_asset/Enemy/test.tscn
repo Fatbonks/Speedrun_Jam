@@ -1,0 +1,38 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://Game_asset/Enemy/enemy.tscn" type="PackedScene" id=1]
+[ext_resource path="res://Game_asset/Player/Player.tscn" type="PackedScene" id=2]
+[ext_resource path="res://Game_asset/Enemy/PathFollow.gd" type="Script" id=3]
+
+[sub_resource type="Curve3D" id=1]
+_data = {
+"points": PoolVector3Array( 0, 0, 0, 0, 0, 0, -10.9076, 0, 3.10045, 0, 0, 0, 0, 0, 0, -2.76426, 0, 7.73246, 0, 0, 0, 0, 0, 0, 4.78142, 0, 6.91065, 0, 0, 0, 0, 0, 0, 10.3847, 0, 3.62342, 0, 0, 0, 0, 0, 0, 11.057, 0, -2.80161, 0, 0, 0, 0, 0, 0, 9.63756, 0, -8.0313, 0, 0, 0, 0, 0, 0, 3.28722, 0, -12.6633, 0, 0, 0, 0, 0, 0, 0.448257, 0, -13.6345, 0, 0, 0, 0, 0, 0, -2.24129, 0, -13.7092, 0, 0, 0, 0, 0, 0, -7.24685, 0, -11.6174, 0, 0, 0, 0, 0, 0, -10.9823, 0, -1.9051, 0, 0, 0, 0, 0, 0, -10.9076, 0, 3.10045 ),
+"tilts": PoolRealArray( 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 )
+}
+
+[node name="test" type="Spatial"]
+
+[node name="Player" parent="." instance=ExtResource( 2 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.0575132, -0.511125, 7.58026 )
+
+[node name="Camera" type="Camera" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.9233, 12.8193 )
+
+[node name="Path" type="Path" parent="."]
+curve = SubResource( 1 )
+
+[node name="PathFollow" type="PathFollow" parent="Path"]
+transform = Transform( -0.938191, -0.135754, -0.318386, -0.0669318, 0.973668, -0.217925, 0.339586, -0.183145, -0.922572, -10.9076, 0, 3.10045 )
+script = ExtResource( 3 )
+
+[node name="enemy" parent="Path/PathFollow" instance=ExtResource( 1 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0 )
+
+[node name="stop" type="Timer" parent="Path/PathFollow"]
+wait_time = 2.0
+
+[node name="start" type="Timer" parent="Path/PathFollow"]
+wait_time = 2.0
+
+[connection signal="timeout" from="Path/PathFollow/stop" to="Path/PathFollow" method="_on_stop_timeout"]
+[connection signal="timeout" from="Path/PathFollow/start" to="Path/PathFollow" method="_on_start_timeout"]
