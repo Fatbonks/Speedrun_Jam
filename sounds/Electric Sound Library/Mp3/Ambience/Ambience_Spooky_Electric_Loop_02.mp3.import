@@ -2,18 +2,14 @@
 
 importer="mp3"
 type="AudioStreamMP3"
-uid="uid://cpuxn2c4qj3d5"
-path="res://.godot/imported/Ambience_Spooky_Electric_Loop_02.mp3-7226a23eb20dc918efcc380a08251a17.mp3str"
+path="res://.import/Ambience_Spooky_Electric_Loop_02.mp3-7226a23eb20dc918efcc380a08251a17.mp3str"
 
 [deps]
 
 source_file="res://sounds/Electric Sound Library/Mp3/Ambience/Ambience_Spooky_Electric_Loop_02.mp3"
-dest_files=["res://.godot/imported/Ambience_Spooky_Electric_Loop_02.mp3-7226a23eb20dc918efcc380a08251a17.mp3str"]
+dest_files=[ "res://.import/Ambience_Spooky_Electric_Loop_02.mp3-7226a23eb20dc918efcc380a08251a17.mp3str" ]
 
 [params]
 
 loop=true
 loop_offset=0
-bpm=0
-beat_count=0
-bar_beats=4

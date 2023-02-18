@@ -1,14 +1,13 @@
 [remap]
 
 importer="wav"
-type="AudioStreamWAV"
-uid="uid://cmf210ugq36gv"
-path="res://.godot/imported/Ambience_Sinister_Electric_Cello_Loop_05.wav-4fde4a41e11d372ca41fb4f866faeaee.sample"
+type="AudioStreamSample"
+path="res://.import/Ambience_Sinister_Electric_Cello_Loop_05.wav-4fde4a41e11d372ca41fb4f866faeaee.sample"
 
 [deps]
 
 source_file="res://sounds/Electric Sound Library/Wav/Ambience/Ambience_Sinister_Electric_Cello_Loop_05.wav"
-dest_files=["res://.godot/imported/Ambience_Sinister_Electric_Cello_Loop_05.wav-4fde4a41e11d372ca41fb4f866faeaee.sample"]
+dest_files=[ "res://.import/Ambience_Sinister_Electric_Cello_Loop_05.wav-4fde4a41e11d372ca41fb4f866faeaee.sample" ]
 
 [params]
 

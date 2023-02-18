@@ -1,14 +1,13 @@
 [remap]
 
 importer="wav"
-type="AudioStreamWAV"
-uid="uid://cagol6maotvfo"
-path="res://.godot/imported/MissionObjectiveSet.wav-ad9f9b1ee17997a274a5eed0d235760d.sample"
+type="AudioStreamSample"
+path="res://.import/MissionObjectiveSet.wav-ad9f9b1ee17997a274a5eed0d235760d.sample"
 
 [deps]
 
 source_file="res://sounds/Voices/Voices/MissionObjectiveSet.wav"
-dest_files=["res://.godot/imported/MissionObjectiveSet.wav-ad9f9b1ee17997a274a5eed0d235760d.sample"]
+dest_files=[ "res://.import/MissionObjectiveSet.wav-ad9f9b1ee17997a274a5eed0d235760d.sample" ]
 
 [params]
 

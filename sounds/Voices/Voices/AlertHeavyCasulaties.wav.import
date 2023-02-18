@@ -1,14 +1,13 @@
 [remap]
 
 importer="wav"
-type="AudioStreamWAV"
-uid="uid://bbwfww2kuitpb"
-path="res://.godot/imported/AlertHeavyCasulaties.wav-8248a20caa6fd5dae0657b1a34ba6208.sample"
+type="AudioStreamSample"
+path="res://.import/AlertHeavyCasulaties.wav-8248a20caa6fd5dae0657b1a34ba6208.sample"
 
 [deps]
 
 source_file="res://sounds/Voices/Voices/AlertHeavyCasulaties.wav"
-dest_files=["res://.godot/imported/AlertHeavyCasulaties.wav-8248a20caa6fd5dae0657b1a34ba6208.sample"]
+dest_files=[ "res://.import/AlertHeavyCasulaties.wav-8248a20caa6fd5dae0657b1a34ba6208.sample" ]
 
 [params]
 

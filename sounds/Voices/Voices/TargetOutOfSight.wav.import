@@ -1,14 +1,13 @@
 [remap]
 
 importer="wav"
-type="AudioStreamWAV"
-uid="uid://bgw1eud6rbih0"
-path="res://.godot/imported/TargetOutOfSight.wav-93b69ade199bdc2a1ed2e0c5fa9bb889.sample"
+type="AudioStreamSample"
+path="res://.import/TargetOutOfSight.wav-93b69ade199bdc2a1ed2e0c5fa9bb889.sample"
 
 [deps]
 
 source_file="res://sounds/Voices/Voices/TargetOutOfSight.wav"
-dest_files=["res://.godot/imported/TargetOutOfSight.wav-93b69ade199bdc2a1ed2e0c5fa9bb889.sample"]
+dest_files=[ "res://.import/TargetOutOfSight.wav-93b69ade199bdc2a1ed2e0c5fa9bb889.sample" ]
 
 [params]
 

@@ -2,18 +2,14 @@
 
 importer="mp3"
 type="AudioStreamMP3"
-uid="uid://band1akfkickb"
-path="res://.godot/imported/Ambience_Monitor_Static_Loop_01.mp3-3fc748b81059542b2fd5f4cba692280e.mp3str"
+path="res://.import/Ambience_Monitor_Static_Loop_01.mp3-3fc748b81059542b2fd5f4cba692280e.mp3str"
 
 [deps]
 
 source_file="res://sounds/Electric Sound Library/Mp3/Ambience/Ambience_Monitor_Static_Loop_01.mp3"
-dest_files=["res://.godot/imported/Ambience_Monitor_Static_Loop_01.mp3-3fc748b81059542b2fd5f4cba692280e.mp3str"]
+dest_files=[ "res://.import/Ambience_Monitor_Static_Loop_01.mp3-3fc748b81059542b2fd5f4cba692280e.mp3str" ]
 
 [params]
 
 loop=true
 loop_offset=0
-bpm=0
-beat_count=0
-bar_beats=4

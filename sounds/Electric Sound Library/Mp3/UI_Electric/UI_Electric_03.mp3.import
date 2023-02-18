@@ -2,18 +2,14 @@
 
 importer="mp3"
 type="AudioStreamMP3"
-uid="uid://fioglfvn0fi6"
-path="res://.godot/imported/UI_Electric_03.mp3-773841b6fe0ff8fcad13e97837e29c90.mp3str"
+path="res://.import/UI_Electric_03.mp3-773841b6fe0ff8fcad13e97837e29c90.mp3str"
 
 [deps]
 
 source_file="res://sounds/Electric Sound Library/Mp3/UI_Electric/UI_Electric_03.mp3"
-dest_files=["res://.godot/imported/UI_Electric_03.mp3-773841b6fe0ff8fcad13e97837e29c90.mp3str"]
+dest_files=[ "res://.import/UI_Electric_03.mp3-773841b6fe0ff8fcad13e97837e29c90.mp3str" ]
 
 [params]
 
 loop=true
 loop_offset=0
-bpm=0
-beat_count=0
-bar_beats=4

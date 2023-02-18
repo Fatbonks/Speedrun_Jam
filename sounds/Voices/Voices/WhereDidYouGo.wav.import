@@ -1,14 +1,13 @@
 [remap]
 
 importer="wav"
-type="AudioStreamWAV"
-uid="uid://bwo7vcc401rvd"
-path="res://.godot/imported/WhereDidYouGo.wav-55390f6e29ba0bb759f9d035207487b4.sample"
+type="AudioStreamSample"
+path="res://.import/WhereDidYouGo.wav-55390f6e29ba0bb759f9d035207487b4.sample"
 
 [deps]
 
 source_file="res://sounds/Voices/Voices/WhereDidYouGo.wav"
-dest_files=["res://.godot/imported/WhereDidYouGo.wav-55390f6e29ba0bb759f9d035207487b4.sample"]
+dest_files=[ "res://.import/WhereDidYouGo.wav-55390f6e29ba0bb759f9d035207487b4.sample" ]
 
 [params]
 

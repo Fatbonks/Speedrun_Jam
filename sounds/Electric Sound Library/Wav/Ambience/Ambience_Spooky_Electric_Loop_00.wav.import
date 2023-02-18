@@ -1,14 +1,13 @@
 [remap]
 
 importer="wav"
-type="AudioStreamWAV"
-uid="uid://tpr0t0lhpf2"
-path="res://.godot/imported/Ambience_Spooky_Electric_Loop_00.wav-fe3701154934c11d9407b45696bf7449.sample"
+type="AudioStreamSample"
+path="res://.import/Ambience_Spooky_Electric_Loop_00.wav-fe3701154934c11d9407b45696bf7449.sample"
 
 [deps]
 
 source_file="res://sounds/Electric Sound Library/Wav/Ambience/Ambience_Spooky_Electric_Loop_00.wav"
-dest_files=["res://.godot/imported/Ambience_Spooky_Electric_Loop_00.wav-fe3701154934c11d9407b45696bf7449.sample"]
+dest_files=[ "res://.import/Ambience_Spooky_Electric_Loop_00.wav-fe3701154934c11d9407b45696bf7449.sample" ]
 
 [params]
 

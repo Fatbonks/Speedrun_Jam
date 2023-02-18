@@ -1,14 +1,13 @@
 [remap]
 
 importer="wav"
-type="AudioStreamWAV"
-uid="uid://coys3phqf1q0t"
-path="res://.godot/imported/TakingCover.wav-8ef2e7e2cd26d15631a20069bc98c604.sample"
+type="AudioStreamSample"
+path="res://.import/TakingCover.wav-8ef2e7e2cd26d15631a20069bc98c604.sample"
 
 [deps]
 
 source_file="res://sounds/Voices/Voices/TakingCover.wav"
-dest_files=["res://.godot/imported/TakingCover.wav-8ef2e7e2cd26d15631a20069bc98c604.sample"]
+dest_files=[ "res://.import/TakingCover.wav-8ef2e7e2cd26d15631a20069bc98c604.sample" ]
 
 [params]
 

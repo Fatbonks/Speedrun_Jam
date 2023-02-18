@@ -1,14 +1,13 @@
 [remap]
 
 importer="wav"
-type="AudioStreamWAV"
-uid="uid://c60wapvug25jn"
-path="res://.godot/imported/GetOverHere.wav-9979f70e4ac04a4edec3e1f576a2ee16.sample"
+type="AudioStreamSample"
+path="res://.import/GetOverHere.wav-9979f70e4ac04a4edec3e1f576a2ee16.sample"
 
 [deps]
 
 source_file="res://sounds/Voices/Voices/GetOverHere.wav"
-dest_files=["res://.godot/imported/GetOverHere.wav-9979f70e4ac04a4edec3e1f576a2ee16.sample"]
+dest_files=[ "res://.import/GetOverHere.wav-9979f70e4ac04a4edec3e1f576a2ee16.sample" ]
 
 [params]
 

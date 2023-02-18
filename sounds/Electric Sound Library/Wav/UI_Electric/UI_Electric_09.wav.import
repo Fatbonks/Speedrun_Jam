@@ -1,14 +1,13 @@
 [remap]
 
 importer="wav"
-type="AudioStreamWAV"
-uid="uid://dcfnjyk5xelql"
-path="res://.godot/imported/UI_Electric_09.wav-a749c7efff9535b6cb920dcd1d1aeaeb.sample"
+type="AudioStreamSample"
+path="res://.import/UI_Electric_09.wav-a749c7efff9535b6cb920dcd1d1aeaeb.sample"
 
 [deps]
 
 source_file="res://sounds/Electric Sound Library/Wav/UI_Electric/UI_Electric_09.wav"
-dest_files=["res://.godot/imported/UI_Electric_09.wav-a749c7efff9535b6cb920dcd1d1aeaeb.sample"]
+dest_files=[ "res://.import/UI_Electric_09.wav-a749c7efff9535b6cb920dcd1d1aeaeb.sample" ]
 
 [params]
 

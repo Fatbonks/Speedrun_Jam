@@ -2,18 +2,14 @@
 
 importer="mp3"
 type="AudioStreamMP3"
-uid="uid://disecdpu2mvpo"
-path="res://.godot/imported/Ambience_Sinister_Electric_Cello_Loop_06.mp3-d3334820fb85a504665493e65d6ede60.mp3str"
+path="res://.import/Ambience_Sinister_Electric_Cello_Loop_06.mp3-d3334820fb85a504665493e65d6ede60.mp3str"
 
 [deps]
 
 source_file="res://sounds/Electric Sound Library/Mp3/Ambience/Ambience_Sinister_Electric_Cello_Loop_06.mp3"
-dest_files=["res://.godot/imported/Ambience_Sinister_Electric_Cello_Loop_06.mp3-d3334820fb85a504665493e65d6ede60.mp3str"]
+dest_files=[ "res://.import/Ambience_Sinister_Electric_Cello_Loop_06.mp3-d3334820fb85a504665493e65d6ede60.mp3str" ]
 
 [params]
 
 loop=true
 loop_offset=0
-bpm=0
-beat_count=0
-bar_beats=4

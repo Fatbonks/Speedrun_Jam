@@ -1,14 +1,13 @@
 [remap]
 
 importer="wav"
-type="AudioStreamWAV"
-uid="uid://dfv5ysjwo2adb"
-path="res://.godot/imported/ThatHurt.wav-3d4150eff5ba848a1275a9c20268808e.sample"
+type="AudioStreamSample"
+path="res://.import/ThatHurt.wav-3d4150eff5ba848a1275a9c20268808e.sample"
 
 [deps]
 
 source_file="res://sounds/Voices/Voices/ThatHurt.wav"
-dest_files=["res://.godot/imported/ThatHurt.wav-3d4150eff5ba848a1275a9c20268808e.sample"]
+dest_files=[ "res://.import/ThatHurt.wav-3d4150eff5ba848a1275a9c20268808e.sample" ]
 
 [params]
 

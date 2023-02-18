@@ -2,18 +2,14 @@
 
 importer="mp3"
 type="AudioStreamMP3"
-uid="uid://bwt85ck3mufba"
-path="res://.godot/imported/UI_Synth_03.mp3-0659a414e53665b67478aa4f16035ced.mp3str"
+path="res://.import/UI_Synth_03.mp3-0659a414e53665b67478aa4f16035ced.mp3str"
 
 [deps]
 
 source_file="res://sounds/Electric Sound Library/Mp3/UI_Synth/UI_Synth_03.mp3"
-dest_files=["res://.godot/imported/UI_Synth_03.mp3-0659a414e53665b67478aa4f16035ced.mp3str"]
+dest_files=[ "res://.import/UI_Synth_03.mp3-0659a414e53665b67478aa4f16035ced.mp3str" ]
 
 [params]
 
 loop=true
 loop_offset=0
-bpm=0
-beat_count=0
-bar_beats=4

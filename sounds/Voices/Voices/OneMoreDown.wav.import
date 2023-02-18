@@ -1,14 +1,13 @@
 [remap]
 
 importer="wav"
-type="AudioStreamWAV"
-uid="uid://d3snmmaadk4ov"
-path="res://.godot/imported/OneMoreDown.wav-e27e17c922f38c2c4cce5db6f6888976.sample"
+type="AudioStreamSample"
+path="res://.import/OneMoreDown.wav-e27e17c922f38c2c4cce5db6f6888976.sample"
 
 [deps]
 
 source_file="res://sounds/Voices/Voices/OneMoreDown.wav"
-dest_files=["res://.godot/imported/OneMoreDown.wav-e27e17c922f38c2c4cce5db6f6888976.sample"]
+dest_files=[ "res://.import/OneMoreDown.wav-e27e17c922f38c2c4cce5db6f6888976.sample" ]
 
 [params]
 

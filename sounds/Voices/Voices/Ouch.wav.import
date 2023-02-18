@@ -1,14 +1,13 @@
 [remap]
 
 importer="wav"
-type="AudioStreamWAV"
-uid="uid://dj15kp00tc7l0"
-path="res://.godot/imported/Ouch.wav-ace35162963efa3f75d08e8fd799ef0a.sample"
+type="AudioStreamSample"
+path="res://.import/Ouch.wav-ace35162963efa3f75d08e8fd799ef0a.sample"
 
 [deps]
 
 source_file="res://sounds/Voices/Voices/Ouch.wav"
-dest_files=["res://.godot/imported/Ouch.wav-ace35162963efa3f75d08e8fd799ef0a.sample"]
+dest_files=[ "res://.import/Ouch.wav-ace35162963efa3f75d08e8fd799ef0a.sample" ]
 
 [params]
 

@@ -1,14 +1,13 @@
 [remap]
 
 importer="wav"
-type="AudioStreamWAV"
-uid="uid://ld7tplsvoutf"
-path="res://.godot/imported/SpaceEngine_ControlRoom_Loop_00.wav-90cea3feff48182d98343b570d4bc5ef.sample"
+type="AudioStreamSample"
+path="res://.import/SpaceEngine_ControlRoom_Loop_00.wav-90cea3feff48182d98343b570d4bc5ef.sample"
 
 [deps]
 
 source_file="res://sounds/Electric Sound Library/Wav/SpaceEngine/SpaceEngine_ControlRoom_Loop_00.wav"
-dest_files=["res://.godot/imported/SpaceEngine_ControlRoom_Loop_00.wav-90cea3feff48182d98343b570d4bc5ef.sample"]
+dest_files=[ "res://.import/SpaceEngine_ControlRoom_Loop_00.wav-90cea3feff48182d98343b570d4bc5ef.sample" ]
 
 [params]
 

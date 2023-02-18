@@ -1,14 +1,13 @@
 [remap]
 
 importer="wav"
-type="AudioStreamWAV"
-uid="uid://3cvdlrqum2bf"
-path="res://.godot/imported/Jingle_Win_Synth_02.wav-8add517902fc90ce8d8785c69b9ec19a.sample"
+type="AudioStreamSample"
+path="res://.import/Jingle_Win_Synth_02.wav-8add517902fc90ce8d8785c69b9ec19a.sample"
 
 [deps]
 
 source_file="res://sounds/Electric Sound Library/Wav/Jingle_Win_Synth/Jingle_Win_Synth_02.wav"
-dest_files=["res://.godot/imported/Jingle_Win_Synth_02.wav-8add517902fc90ce8d8785c69b9ec19a.sample"]
+dest_files=[ "res://.import/Jingle_Win_Synth_02.wav-8add517902fc90ce8d8785c69b9ec19a.sample" ]
 
 [params]
 

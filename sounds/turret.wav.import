@@ -1,14 +1,13 @@
 [remap]
 
 importer="wav"
-type="AudioStreamWAV"
-uid="uid://b3dcedtvacx73"
-path="res://.godot/imported/turret.wav-3a6bac41a3053d26342b5fdbe9f4a041.sample"
+type="AudioStreamSample"
+path="res://.import/turret.wav-3a6bac41a3053d26342b5fdbe9f4a041.sample"
 
 [deps]
 
 source_file="res://sounds/turret.wav"
-dest_files=["res://.godot/imported/turret.wav-3a6bac41a3053d26342b5fdbe9f4a041.sample"]
+dest_files=[ "res://.import/turret.wav-3a6bac41a3053d26342b5fdbe9f4a041.sample" ]
 
 [params]
 
