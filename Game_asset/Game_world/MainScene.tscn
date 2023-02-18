@@ -1,9 +1,16 @@
-[gd_scene load_steps=2 format=2]
+[gd_scene load_steps=4 format=2]
 
-[sub_resource type="CubeMesh" id=1]
+[ext_resource path="res://Game_asset/Game_world/Floor.tscn" type="PackedScene" id=1]
+[ext_resource path="res://Game_asset/Player/Player.tscn" type="PackedScene" id=2]
+[ext_resource path="res://Game_asset/Game_world/stairs.tscn" type="PackedScene" id=3]
 
-[node name="Spatial" type="Spatial"]
+[node name="MainScene" type="Spatial"]
 
-[node name="MeshInstance" type="MeshInstance" parent="."]
-transform = Transform( 5, 0, 0, 0, 1, 0, 0, 0, 5, 0, -1, 0 )
-mesh = SubResource( 1 )
+[node name="Floor" parent="." instance=ExtResource( 1 )]
+transform = Transform( 30, 0, 0, 0, 1, 0, 0, 0, 30, 0, 0, 0 )
+
+[node name="KinematicBody" parent="." instance=ExtResource( 2 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 3, 0 )
+
+[node name="Stairs" parent="." instance=ExtResource( 3 )]
+transform = Transform( 2, 0, 0, 0, 4, 0, 0, 0, 4, 1, 1, -14.373 )
