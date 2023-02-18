@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Jingle_Win_Synth_01.mp3-497baaafdc920e4cbb1818c4b9c611ae.mp3str"
+
+[deps]
+
+source_file="res://sounds/Electric Sound Library/Mp3/Jingle_Win_Synth/Jingle_Win_Synth_01.mp3"
+dest_files=[ "res://.import/Jingle_Win_Synth_01.mp3-497baaafdc920e4cbb1818c4b9c611ae.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

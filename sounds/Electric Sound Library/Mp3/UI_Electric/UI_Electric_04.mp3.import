@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/UI_Electric_04.mp3-de63ecc9c4c318beeb84eaa660d9d8e9.mp3str"
+
+[deps]
+
+source_file="res://sounds/Electric Sound Library/Mp3/UI_Electric/UI_Electric_04.mp3"
+dest_files=[ "res://.import/UI_Electric_04.mp3-de63ecc9c4c318beeb84eaa660d9d8e9.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

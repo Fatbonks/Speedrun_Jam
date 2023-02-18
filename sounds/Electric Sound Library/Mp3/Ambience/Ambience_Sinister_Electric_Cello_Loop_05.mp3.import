@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Ambience_Sinister_Electric_Cello_Loop_05.mp3-7b2aa31ce4dd74f0dc0460c7a0e8cc48.mp3str"
+
+[deps]
+
+source_file="res://sounds/Electric Sound Library/Mp3/Ambience/Ambience_Sinister_Electric_Cello_Loop_05.mp3"
+dest_files=[ "res://.import/Ambience_Sinister_Electric_Cello_Loop_05.mp3-7b2aa31ce4dd74f0dc0460c7a0e8cc48.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

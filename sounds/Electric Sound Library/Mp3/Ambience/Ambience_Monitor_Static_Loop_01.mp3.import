@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Ambience_Monitor_Static_Loop_01.mp3-3fc748b81059542b2fd5f4cba692280e.mp3str"
+
+[deps]
+
+source_file="res://sounds/Electric Sound Library/Mp3/Ambience/Ambience_Monitor_Static_Loop_01.mp3"
+dest_files=[ "res://.import/Ambience_Monitor_Static_Loop_01.mp3-3fc748b81059542b2fd5f4cba692280e.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

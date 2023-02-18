@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Whoosh_Electric_03.mp3-d87e2e2be70ea93a657244472b0ced17.mp3str"
+
+[deps]
+
+source_file="res://sounds/Electric Sound Library/Mp3/Whoosh_Electric/Whoosh_Electric_03.mp3"
+dest_files=[ "res://.import/Whoosh_Electric_03.mp3-d87e2e2be70ea93a657244472b0ced17.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

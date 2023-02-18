@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/SpaceEngine_Stop_00.mp3-c372bd1b71dc05cffc32d0386fd5f062.mp3str"
+
+[deps]
+
+source_file="res://sounds/Electric Sound Library/Mp3/SpaceEngine/SpaceEngine_Stop_00.mp3"
+dest_files=[ "res://.import/SpaceEngine_Stop_00.mp3-c372bd1b71dc05cffc32d0386fd5f062.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
