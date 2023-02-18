@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/BackupRequested.wav-94144483cfaf359393e933b4b2786b03.sample"
+type="AudioStreamWAV"
+uid="uid://bu6pgrt54bcsn"
+path="res://.godot/imported/BackupRequested.wav-94144483cfaf359393e933b4b2786b03.sample"
 
 [deps]
 
 source_file="res://sounds/Voices/Voices/BackupRequested.wav"
-dest_files=[ "res://.import/BackupRequested.wav-94144483cfaf359393e933b4b2786b03.sample" ]
+dest_files=["res://.godot/imported/BackupRequested.wav-94144483cfaf359393e933b4b2786b03.sample"]
 
 [params]
 

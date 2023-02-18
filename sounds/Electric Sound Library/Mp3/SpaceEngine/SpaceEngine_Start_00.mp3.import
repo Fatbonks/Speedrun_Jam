@@ -2,14 +2,18 @@
 
 importer="mp3"
 type="AudioStreamMP3"
-path="res://.import/SpaceEngine_Start_00.mp3-8ff2cc67fabe039e8d7b6a42b13c7cfb.mp3str"
+uid="uid://dqmpv756jhpxr"
+path="res://.godot/imported/SpaceEngine_Start_00.mp3-8ff2cc67fabe039e8d7b6a42b13c7cfb.mp3str"
 
 [deps]
 
 source_file="res://sounds/Electric Sound Library/Mp3/SpaceEngine/SpaceEngine_Start_00.mp3"
-dest_files=[ "res://.import/SpaceEngine_Start_00.mp3-8ff2cc67fabe039e8d7b6a42b13c7cfb.mp3str" ]
+dest_files=["res://.godot/imported/SpaceEngine_Start_00.mp3-8ff2cc67fabe039e8d7b6a42b13c7cfb.mp3str"]
 
 [params]
 
 loop=true
 loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

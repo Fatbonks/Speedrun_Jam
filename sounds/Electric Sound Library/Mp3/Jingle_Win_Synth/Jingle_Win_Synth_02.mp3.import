@@ -2,14 +2,18 @@
 
 importer="mp3"
 type="AudioStreamMP3"
-path="res://.import/Jingle_Win_Synth_02.mp3-a22cac11d18a82547a4f57025bd52228.mp3str"
+uid="uid://bmx5tfm5s78dk"
+path="res://.godot/imported/Jingle_Win_Synth_02.mp3-a22cac11d18a82547a4f57025bd52228.mp3str"
 
 [deps]
 
 source_file="res://sounds/Electric Sound Library/Mp3/Jingle_Win_Synth/Jingle_Win_Synth_02.mp3"
-dest_files=[ "res://.import/Jingle_Win_Synth_02.mp3-a22cac11d18a82547a4f57025bd52228.mp3str" ]
+dest_files=["res://.godot/imported/Jingle_Win_Synth_02.mp3-a22cac11d18a82547a4f57025bd52228.mp3str"]
 
 [params]
 
 loop=true
 loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

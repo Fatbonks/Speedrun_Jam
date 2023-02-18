@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/TargetNeutralized.wav-fcef8799fabdf29ac6e4c8e2c19cb943.sample"
+type="AudioStreamWAV"
+uid="uid://b4s4wvnqmt7u8"
+path="res://.godot/imported/TargetNeutralized.wav-fcef8799fabdf29ac6e4c8e2c19cb943.sample"
 
 [deps]
 
 source_file="res://sounds/Voices/Voices/TargetNeutralized.wav"
-dest_files=[ "res://.import/TargetNeutralized.wav-fcef8799fabdf29ac6e4c8e2c19cb943.sample" ]
+dest_files=["res://.godot/imported/TargetNeutralized.wav-fcef8799fabdf29ac6e4c8e2c19cb943.sample"]
 
 [params]
 

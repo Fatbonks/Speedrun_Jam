@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/SpaceEngine_Running_Loop_00.wav-4f3ce30144e3ca0aa83819c236bc6394.sample"
+type="AudioStreamWAV"
+uid="uid://col4dpup73kv5"
+path="res://.godot/imported/SpaceEngine_Running_Loop_00.wav-4f3ce30144e3ca0aa83819c236bc6394.sample"
 
 [deps]
 
 source_file="res://sounds/Electric Sound Library/Wav/SpaceEngine/SpaceEngine_Running_Loop_00.wav"
-dest_files=[ "res://.import/SpaceEngine_Running_Loop_00.wav-4f3ce30144e3ca0aa83819c236bc6394.sample" ]
+dest_files=["res://.godot/imported/SpaceEngine_Running_Loop_00.wav-4f3ce30144e3ca0aa83819c236bc6394.sample"]
 
 [params]
 

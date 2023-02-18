@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/ProjectedLifeSpanLow.wav-ea8f334a66d3aa624f7ee53136bf6a9b.sample"
+type="AudioStreamWAV"
+uid="uid://h0tb7hoeobic"
+path="res://.godot/imported/ProjectedLifeSpanLow.wav-ea8f334a66d3aa624f7ee53136bf6a9b.sample"
 
 [deps]
 
 source_file="res://sounds/Voices/Voices/ProjectedLifeSpanLow.wav"
-dest_files=[ "res://.import/ProjectedLifeSpanLow.wav-ea8f334a66d3aa624f7ee53136bf6a9b.sample" ]
+dest_files=["res://.godot/imported/ProjectedLifeSpanLow.wav-ea8f334a66d3aa624f7ee53136bf6a9b.sample"]
 
 [params]
 

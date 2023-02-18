@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/Initializing.wav-7a67674b454c62f874e4536e910d3960.sample"
+type="AudioStreamWAV"
+uid="uid://kn48ol8115dt"
+path="res://.godot/imported/Initializing.wav-7a67674b454c62f874e4536e910d3960.sample"
 
 [deps]
 
 source_file="res://sounds/Voices/Voices/Initializing.wav"
-dest_files=[ "res://.import/Initializing.wav-7a67674b454c62f874e4536e910d3960.sample" ]
+dest_files=["res://.godot/imported/Initializing.wav-7a67674b454c62f874e4536e910d3960.sample"]
 
 [params]
 

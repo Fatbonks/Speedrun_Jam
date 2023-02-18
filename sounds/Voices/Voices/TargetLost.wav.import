@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/TargetLost.wav-e6a683ebbfba3d0860f1e2ba904bd051.sample"
+type="AudioStreamWAV"
+uid="uid://dr3kojb3c3ygj"
+path="res://.godot/imported/TargetLost.wav-e6a683ebbfba3d0860f1e2ba904bd051.sample"
 
 [deps]
 
 source_file="res://sounds/Voices/Voices/TargetLost.wav"
-dest_files=[ "res://.import/TargetLost.wav-e6a683ebbfba3d0860f1e2ba904bd051.sample" ]
+dest_files=["res://.godot/imported/TargetLost.wav-e6a683ebbfba3d0860f1e2ba904bd051.sample"]
 
 [params]
 

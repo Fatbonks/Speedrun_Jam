@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/Ambience_Monitor_Static_Loop_01.wav-30bd4121d26660c3eb581d2ed1c9b6bf.sample"
+type="AudioStreamWAV"
+uid="uid://b38cj6hcbcru5"
+path="res://.godot/imported/Ambience_Monitor_Static_Loop_01.wav-30bd4121d26660c3eb581d2ed1c9b6bf.sample"
 
 [deps]
 
 source_file="res://sounds/Electric Sound Library/Wav/Ambience/Ambience_Monitor_Static_Loop_01.wav"
-dest_files=[ "res://.import/Ambience_Monitor_Static_Loop_01.wav-30bd4121d26660c3eb581d2ed1c9b6bf.sample" ]
+dest_files=["res://.godot/imported/Ambience_Monitor_Static_Loop_01.wav-30bd4121d26660c3eb581d2ed1c9b6bf.sample"]
 
 [params]
 

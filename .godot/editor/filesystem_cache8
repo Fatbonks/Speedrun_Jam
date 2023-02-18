@@ -1,0 +1,150 @@
+2a60927148abd1d33b818b535e306557
+::res://::1676696072
+default_env.tres::Environment::-1::1676696059::0::1::::<><>::
+icon.png::CompressedTexture2D::1954864097352440243::1676686646::1676696107::1::::<><>::
+Yay.txt::TextFile::-1::1676686739::0::1::::<><>::
+::res://Game_asset/::1676690014
+::res://Game_asset/Game_world/::1676686829
+MainScene.tscn::PackedScene::-1::1676696059::0::1::::<><>::res://Game_asset/Player/Player.tscn
+::res://Game_asset/Player/::1676686739
+Player.tscn::PackedScene::-1::1676696059::0::1::::<><>::
+::res://Game_asset/TestWorld/::1676696025
+box.tscn::PackedScene::-1::1676696059::0::1::::<><>::
+Floor.tscn::PackedScene::-1::1676696059::0::1::::<><>::
+TestWorld.tscn::PackedScene::-1::1676696059::0::1::::<><>::res://Game_asset/TestWorld/wall1.tscn<>res://Game_asset/TestWorld/Floor.tscn<>res://Game_asset/TestWorld/box.tscn
+wall1.tscn::PackedScene::-1::1676696059::0::1::::<><>::
+::res://sounds/::1676696073
+alarm.ogg::AudioStreamOggVorbis::7930400744925798923::1676686740::1676696073::1::::<><>::
+sources.txt::TextFile::-1::1676686740::0::1::::<><>::
+turret.wav::AudioStreamWAV::4358030203856924200::1676686740::1676696107::1::::<><>::
+::res://sounds/Electric Sound Library/::1676686740
+::res://sounds/Electric Sound Library/Mp3/::1676686740
+::res://sounds/Electric Sound Library/Mp3/Ambience/::1676686809
+Ambience_Monitor_Static_Loop_00.mp3::AudioStreamMP3::2440003548101564858::1676686739::1676696107::1::::<><>::
+Ambience_Monitor_Static_Loop_01.mp3::AudioStreamMP3::2413486191804606557::1676686740::1676696107::1::::<><>::
+Ambience_Sinister_Electric_Cello_Loop_00.mp3::AudioStreamMP3::3009849463584570027::1676686740::1676696107::1::::<><>::
+Ambience_Sinister_Electric_Cello_Loop_01.mp3::AudioStreamMP3::8264874077476760279::1676686740::1676696107::1::::<><>::
+Ambience_Sinister_Electric_Cello_Loop_02.mp3::AudioStreamMP3::4031749682008367010::1676686740::1676696107::1::::<><>::
+Ambience_Sinister_Electric_Cello_Loop_03.mp3::AudioStreamMP3::4456731100829606999::1676686740::1676696107::1::::<><>::
+Ambience_Sinister_Electric_Cello_Loop_04.mp3::AudioStreamMP3::6626507693011848503::1676686740::1676696107::1::::<><>::
+Ambience_Sinister_Electric_Cello_Loop_05.mp3::AudioStreamMP3::1424083828316246367::1676686740::1676696107::1::::<><>::
+Ambience_Sinister_Electric_Cello_Loop_06.mp3::AudioStreamMP3::7758178221002916528::1676686740::1676696107::1::::<><>::
+Ambience_Spooky_Electric_Loop_00.mp3::AudioStreamMP3::6213932366952548654::1676686740::1676696107::1::::<><>::
+Ambience_Spooky_Electric_Loop_01.mp3::AudioStreamMP3::3869654004661522034::1676686740::1676696107::1::::<><>::
+Ambience_Spooky_Electric_Loop_02.mp3::AudioStreamMP3::5868382705751733340::1676686740::1676696107::1::::<><>::
+::res://sounds/Electric Sound Library/Mp3/Jingle_Win_Synth/::1676686809
+Jingle_Win_Synth_00.mp3::AudioStreamMP3::6903170080963472702::1676686740::1676696107::1::::<><>::
+Jingle_Win_Synth_01.mp3::AudioStreamMP3::5462307368681333018::1676686740::1676696107::1::::<><>::
+Jingle_Win_Synth_02.mp3::AudioStreamMP3::3278023218102867924::1676686740::1676696107::1::::<><>::
+Jingle_Win_Synth_03.mp3::AudioStreamMP3::4858831471522249048::1676686740::1676696107::1::::<><>::
+Jingle_Win_Synth_04.mp3::AudioStreamMP3::1750406420357439940::1676686740::1676696107::1::::<><>::
+Jingle_Win_Synth_05.mp3::AudioStreamMP3::2295857135796614311::1676686740::1676696107::1::::<><>::
+Jingle_Win_Synth_06.mp3::AudioStreamMP3::5911673288323495885::1676686740::1676696107::1::::<><>::
+::res://sounds/Electric Sound Library/Mp3/SpaceEngine/::1676686809
+SpaceEngine_ControlRoom_Loop_00.mp3::AudioStreamMP3::2235285665664273013::1676686740::1676696107::1::::<><>::
+SpaceEngine_ControlRoom_Loop_01.mp3::AudioStreamMP3::2795414062062977446::1676686740::1676696107::1::::<><>::
+SpaceEngine_Running_Loop_00.mp3::AudioStreamMP3::1660834372805871010::1676686740::1676696107::1::::<><>::
+SpaceEngine_Start_00.mp3::AudioStreamMP3::8308006067412193923::1676686740::1676696107::1::::<><>::
+SpaceEngine_Start_01.mp3::AudioStreamMP3::8605538304637569439::1676686740::1676696107::1::::<><>::
+SpaceEngine_Stop_00.mp3::AudioStreamMP3::1688606080011294127::1676686740::1676696107::1::::<><>::
+::res://sounds/Electric Sound Library/Mp3/UI_Electric/::1676686811
+UI_Electric_00.mp3::AudioStreamMP3::6459563217811044692::1676686740::1676696107::1::::<><>::
+UI_Electric_01.mp3::AudioStreamMP3::2321408472395596041::1676686740::1676696107::1::::<><>::
+UI_Electric_02.mp3::AudioStreamMP3::2987805155349194092::1676686740::1676696107::1::::<><>::
+UI_Electric_03.mp3::AudioStreamMP3::368320579338178619::1676686740::1676696107::1::::<><>::
+UI_Electric_04.mp3::AudioStreamMP3::6238718340780269636::1676686740::1676696107::1::::<><>::
+UI_Electric_05.mp3::AudioStreamMP3::7922229759214877410::1676686740::1676696107::1::::<><>::
+UI_Electric_06.mp3::AudioStreamMP3::6679172630032399283::1676686740::1676696107::1::::<><>::
+UI_Electric_07.mp3::AudioStreamMP3::2050126386514903392::1676686740::1676696107::1::::<><>::
+UI_Electric_08.mp3::AudioStreamMP3::4757439516808489349::1676686740::1676696107::1::::<><>::
+UI_Electric_09.mp3::AudioStreamMP3::250706210979899599::1676686740::1676696107::1::::<><>::
+UI_Electric_10.mp3::AudioStreamMP3::14922082986303750::1676686740::1676696107::1::::<><>::
+UI_Electric_11.mp3::AudioStreamMP3::6941415374930318419::1676686740::1676696107::1::::<><>::
+::res://sounds/Electric Sound Library/Mp3/UI_Synth/::1676686811
+UI_Synth_00.mp3::AudioStreamMP3::7085788785653841580::1676686740::1676696107::1::::<><>::
+UI_Synth_01.mp3::AudioStreamMP3::8073326223670134841::1676686740::1676696107::1::::<><>::
+UI_Synth_02.mp3::AudioStreamMP3::7786060150537878825::1676686740::1676696107::1::::<><>::
+UI_Synth_03.mp3::AudioStreamMP3::3971855777419153686::1676686740::1676696107::1::::<><>::
+UI_Synth_04.mp3::AudioStreamMP3::7993485951192750295::1676686740::1676696107::1::::<><>::
+UI_Synth_05.mp3::AudioStreamMP3::6067674818812832232::1676686740::1676696107::1::::<><>::
+::res://sounds/Electric Sound Library/Mp3/Whoosh_Electric/::1676686811
+Whoosh_Electric_00.mp3::AudioStreamMP3::5908578373942842835::1676686740::1676696107::1::::<><>::
+Whoosh_Electric_01.mp3::AudioStreamMP3::4371739491402139043::1676686740::1676696107::1::::<><>::
+Whoosh_Electric_02.mp3::AudioStreamMP3::9099693352609496901::1676686740::1676696107::1::::<><>::
+Whoosh_Electric_03.mp3::AudioStreamMP3::2924998336873555062::1676686740::1676696107::1::::<><>::
+::res://sounds/Electric Sound Library/Wav/::1676686740
+::res://sounds/Electric Sound Library/Wav/Ambience/::1676686811
+Ambience_Monitor_Static_Loop_00.wav::AudioStreamWAV::8889779463496613927::1676686740::1676696108::1::::<><>::
+Ambience_Monitor_Static_Loop_01.wav::AudioStreamWAV::4419971916702448938::1676686740::1676696108::1::::<><>::
+Ambience_Sinister_Electric_Cello_Loop_00.wav::AudioStreamWAV::1791653605480174595::1676686740::1676696108::1::::<><>::
+Ambience_Sinister_Electric_Cello_Loop_01.wav::AudioStreamWAV::8389343486403388712::1676686740::1676696107::1::::<><>::
+Ambience_Sinister_Electric_Cello_Loop_02.wav::AudioStreamWAV::3385554732221047917::1676686740::1676696107::1::::<><>::
+Ambience_Sinister_Electric_Cello_Loop_03.wav::AudioStreamWAV::2553850861901984888::1676686740::1676696108::1::::<><>::
+Ambience_Sinister_Electric_Cello_Loop_04.wav::AudioStreamWAV::3234027745689512982::1676686740::1676696107::1::::<><>::
+Ambience_Sinister_Electric_Cello_Loop_05.wav::AudioStreamWAV::5627116513534083837::1676686740::1676696108::1::::<><>::
+Ambience_Sinister_Electric_Cello_Loop_06.wav::AudioStreamWAV::3012411896294035452::1676686740::1676696108::1::::<><>::
+Ambience_Spooky_Electric_Loop_00.wav::AudioStreamWAV::40165634300931401::1676686740::1676696107::1::::<><>::
+Ambience_Spooky_Electric_Loop_01.wav::AudioStreamWAV::8868511228141873342::1676686740::1676696107::1::::<><>::
+Ambience_Spooky_Electric_Loop_02.wav::AudioStreamWAV::3219961030980498868::1676686740::1676696107::1::::<><>::
+::res://sounds/Electric Sound Library/Wav/Jingle_Win_Synth/::1676686808
+Jingle_Win_Synth_00.wav::AudioStreamWAV::8485236189862514884::1676686740::1676696107::1::::<><>::
+Jingle_Win_Synth_01.wav::AudioStreamWAV::6173464260302652985::1676686740::1676696107::1::::<><>::
+Jingle_Win_Synth_02.wav::AudioStreamWAV::1970697396375559795::1676686740::1676696107::1::::<><>::
+Jingle_Win_Synth_03.wav::AudioStreamWAV::1704471004626377901::1676686740::1676696107::1::::<><>::
+Jingle_Win_Synth_04.wav::AudioStreamWAV::4108098863602816282::1676686740::1676696108::1::::<><>::
+Jingle_Win_Synth_05.wav::AudioStreamWAV::302327853082712865::1676686740::1676696108::1::::<><>::
+Jingle_Win_Synth_06.wav::AudioStreamWAV::7774910766326925361::1676686740::1676696108::1::::<><>::
+::res://sounds/Electric Sound Library/Wav/SpaceEngine/::1676686808
+SpaceEngine_ControlRoom_Loop_00.wav::AudioStreamWAV::780248092822830875::1676686740::1676696108::1::::<><>::
+SpaceEngine_ControlRoom_Loop_01.wav::AudioStreamWAV::3888205948563957873::1676686740::1676696108::1::::<><>::
+SpaceEngine_Running_Loop_00.wav::AudioStreamWAV::5779960303257002576::1676686740::1676696108::1::::<><>::
+SpaceEngine_Start_00.wav::AudioStreamWAV::5922198043663590236::1676686740::1676696107::1::::<><>::
+SpaceEngine_Start_01.wav::AudioStreamWAV::4721495545539128079::1676686740::1676696107::1::::<><>::
+SpaceEngine_Stop_00.wav::AudioStreamWAV::6825627427482374236::1676686740::1676696108::1::::<><>::
+::res://sounds/Electric Sound Library/Wav/UI_Electric/::1676686807
+UI_Electric_00.wav::AudioStreamWAV::884396006034760651::1676686740::1676696107::1::::<><>::
+UI_Electric_01.wav::AudioStreamWAV::2786458636880067355::1676686740::1676696107::1::::<><>::
+UI_Electric_02.wav::AudioStreamWAV::7283198082163220581::1676686740::1676696107::1::::<><>::
+UI_Electric_03.wav::AudioStreamWAV::3358180256468277965::1676686740::1676696107::1::::<><>::
+UI_Electric_04.wav::AudioStreamWAV::2568627025804725010::1676686740::1676696107::1::::<><>::
+UI_Electric_05.wav::AudioStreamWAV::7974866416727877662::1676686740::1676696107::1::::<><>::
+UI_Electric_06.wav::AudioStreamWAV::7436568603964433470::1676686740::1676696107::1::::<><>::
+UI_Electric_07.wav::AudioStreamWAV::902624038401527441::1676686740::1676696107::1::::<><>::
+UI_Electric_08.wav::AudioStreamWAV::7654769297243991780::1676686740::1676696107::1::::<><>::
+UI_Electric_09.wav::AudioStreamWAV::7310768297579191463::1676686740::1676696107::1::::<><>::
+UI_Electric_10.wav::AudioStreamWAV::6910836918410496473::1676686740::1676696107::1::::<><>::
+UI_Electric_11.wav::AudioStreamWAV::1377385399897678741::1676686740::1676696107::1::::<><>::
+::res://sounds/Electric Sound Library/Wav/UI_Synth/::1676686809
+UI_Synth_00.wav::AudioStreamWAV::6281214409360043485::1676686740::1676696107::1::::<><>::
+UI_Synth_01.wav::AudioStreamWAV::2995630294399147154::1676686740::1676696107::1::::<><>::
+UI_Synth_02.wav::AudioStreamWAV::1497235167819106947::1676686740::1676696107::1::::<><>::
+UI_Synth_03.wav::AudioStreamWAV::2407609161256472454::1676686740::1676696107::1::::<><>::
+UI_Synth_04.wav::AudioStreamWAV::1613490794126780839::1676686740::1676696107::1::::<><>::
+UI_Synth_05.wav::AudioStreamWAV::4452833729829613268::1676686740::1676696107::1::::<><>::
+::res://sounds/Electric Sound Library/Wav/Whoosh_Electric/::1676686809
+Whoosh_Electric_00.wav::AudioStreamWAV::825106476858152119::1676686740::1676696107::1::::<><>::
+Whoosh_Electric_01.wav::AudioStreamWAV::1937816214725329817::1676686740::1676696107::1::::<><>::
+Whoosh_Electric_02.wav::AudioStreamWAV::8880357981567736597::1676686740::1676696107::1::::<><>::
+Whoosh_Electric_03.wav::AudioStreamWAV::3147834119475646139::1676686740::1676696107::1::::<><>::
+::res://sounds/Voices/::1676686740
+::res://sounds/Voices/Voices/::1676686809
+AlertHeavyCasulaties.wav::AudioStreamWAV::2502369908055028811::1676686740::1676696107::1::::<><>::
+AllyDown.wav::AudioStreamWAV::8799872811933872565::1676686740::1676696107::1::::<><>::
+BackupRequested.wav::AudioStreamWAV::3855115660134623185::1676686740::1676696107::1::::<><>::
+GetOverHere.wav::AudioStreamWAV::7001641559066530223::1676686740::1676696107::1::::<><>::
+I need backup.wav::AudioStreamWAV::8511646221844981548::1676686740::1676696107::1::::<><>::
+Initializing.wav::AudioStreamWAV::730545825027110977::1676686740::1676696107::1::::<><>::
+MissionObjectiveSet.wav::AudioStreamWAV::4786098962323232516::1676686740::1676696107::1::::<><>::
+OneMoreDown.wav::AudioStreamWAV::9162519853234746469::1676686740::1676696107::1::::<><>::
+Ouch.wav::AudioStreamWAV::7846475660780946223::1676686740::1676696107::1::::<><>::
+ProjectedLifeSpanLow.wav::AudioStreamWAV::544088450177017286::1676686740::1676696107::1::::<><>::
+TakingCover.wav::AudioStreamWAV::5806173951913796357::1676686740::1676696107::1::::<><>::
+TargetAcquired.wav::AudioStreamWAV::3774144119835574147::1676686740::1676696107::1::::<><>::
+TargetDown.wav::AudioStreamWAV::7319516522376286818::1676686740::1676696107::1::::<><>::
+TargetFound.wav::AudioStreamWAV::5872178632889447075::1676686740::1676696107::1::::<><>::
+TargetLost.wav::AudioStreamWAV::8410907616612809333::1676686740::1676696107::1::::<><>::
+TargetNeutralized.wav::AudioStreamWAV::4460857152841849057::1676686740::1676696107::1::::<><>::
+TargetOutOfSight.wav::AudioStreamWAV::2854556897630838879::1676686740::1676696107::1::::<><>::
+ThatHurt.wav::AudioStreamWAV::7555423531284323487::1676686740::1676696107::1::::<><>::
+WhereAreYou.wav::AudioStreamWAV::6630566648818209398::1676686740::1676696107::1::::<><>::
+WhereDidYouGo.wav::AudioStreamWAV::3961457087215567121::1676686740::1676696107::1::::<><>::

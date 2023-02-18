@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/AllyDown.wav-527240ccb38debe632d039ffd12f57ef.sample"
+type="AudioStreamWAV"
+uid="uid://dxmyvcgg8l8lt"
+path="res://.godot/imported/AllyDown.wav-527240ccb38debe632d039ffd12f57ef.sample"
 
 [deps]
 
 source_file="res://sounds/Voices/Voices/AllyDown.wav"
-dest_files=[ "res://.import/AllyDown.wav-527240ccb38debe632d039ffd12f57ef.sample" ]
+dest_files=["res://.godot/imported/AllyDown.wav-527240ccb38debe632d039ffd12f57ef.sample"]
 
 [params]
 

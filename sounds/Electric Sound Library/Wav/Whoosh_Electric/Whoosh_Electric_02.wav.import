@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/Whoosh_Electric_02.wav-78f22e260cd15076004fe0cc7155d1fb.sample"
+type="AudioStreamWAV"
+uid="uid://dyryg0qvjart2"
+path="res://.godot/imported/Whoosh_Electric_02.wav-78f22e260cd15076004fe0cc7155d1fb.sample"
 
 [deps]
 
 source_file="res://sounds/Electric Sound Library/Wav/Whoosh_Electric/Whoosh_Electric_02.wav"
-dest_files=[ "res://.import/Whoosh_Electric_02.wav-78f22e260cd15076004fe0cc7155d1fb.sample" ]
+dest_files=["res://.godot/imported/Whoosh_Electric_02.wav-78f22e260cd15076004fe0cc7155d1fb.sample"]
 
 [params]
 
